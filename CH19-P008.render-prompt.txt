@@ -1,0 +1,1 @@
+Render CH19-P008 using page.json and supplied Assets/. Full-color realistic manga, exact approved geometry and canonical references. No lettering, bubbles, panel numbers, folios, or reader-visible text in base artwork. Produce a separate transparent lettering overlay from the exact transcript.
